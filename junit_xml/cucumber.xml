@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="PHP login feature" name="PHP login test scenario" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given User is already on Php login page.....................................undefined
+When title is php.com.......................................................undefined
+Then user enter username and password.......................................undefined
+And click login button......................................................undefined
+Then user is on homepage....................................................undefined
+]]></failure>
+</testcase>
+</testsuite>
